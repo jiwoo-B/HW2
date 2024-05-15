@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #6f6f6fc6;
+}
+
+section {
+  width: 340px;
+  padding: 30px;
+  background-color: #fffffc;
+  margin: 50px auto;
+  box-shadow: 10px 10px 30px rgba(0.5, 0.5, 0.5, 0.5);
+  border-radius: 10px;
+}
+
+section h1.tt {
+  text-align: center;
+}
